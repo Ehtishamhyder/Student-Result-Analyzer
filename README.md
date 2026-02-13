@@ -1,2 +1,23 @@
-# Student-Result-Analyzer
-Developed a Student Result Evaluation System in Python. The program calculates pass/fail status based on percentage, evaluates grade classification (A–G), and validates marks within a defined range. This project demonstrates understanding of conditional statements, input handling, and basic program logic.
+# Student Result Evaluation System
+
+This is a beginner-level Python project that evaluates student performance based on percentage, grade, and marks.
+
+## Description
+
+The program:
+- Takes percentage, grade, and marks as input
+- Checks pass or fail status based on percentage
+- Evaluates grade classification (A, B, C, D, E, F, G)
+- Validates marks within the required range
+- Displays appropriate success or failure messages
+
+This project demonstrates understanding of:
+- Conditional statements (if-else)
+- User input handling
+- Basic validation logic
+- Python fundamentals
+
+
+Developed by Ehtisham Hyder
+
+
