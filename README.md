@@ -17,6 +17,9 @@ This project demonstrates understanding of:
 - Basic validation logic
 - Python fundamentals
 
+To run use python
+Run the program using:
+python filename.py
 
 Developed by Ehtisham Hyder
 
