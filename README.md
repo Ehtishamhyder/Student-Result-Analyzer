@@ -17,10 +17,10 @@ This project demonstrates understanding of:
 - Basic validation logic
 - Python fundamentals
 
-To run use python
+Run on Python to benefit from it
 Run the program using:
 python filename.py
 
-Developed by Ehtisham Hyder
+Developed by **Ehtisham**
 
 
