@@ -8,6 +8,7 @@
 # grade D = 60-69 marks or percentage >= 60
 # grade F = 50-59 marks or percentage >= 50
 
+print("Welcome to the Student Result Analyzer!")
 percentage = float(input("Enter percentage:"))
 grade = input("Enter grade (A, B, C, D, F, G):")
 marks = int(input("Enter your marks:"))
@@ -18,4 +19,5 @@ if percentage >= 50 and \
     
     print("Congratulations! You have passed the exam:")
 else:
+
     print("You have failed the exam:")
